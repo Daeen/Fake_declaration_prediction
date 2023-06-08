@@ -4,3 +4,5 @@
 - Public score comprises 49% of the test-dataset, while private score comprises 51%
 - The final rankings are based on private score
 - Achieved 9th ranking among 196 students (my accuracy: 91.795%, highest accuracy: 91.976)
+- My best public score can be seen here 
+<img src="public_score.jpg" width="70%" >
